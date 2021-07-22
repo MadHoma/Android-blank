@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.madhoma.androidblank.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.madhoma.androidblank.MyBundle
 
 class MyApplicationService {
 
